@@ -1,11 +1,36 @@
-3654
+3664
+115C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\font-unicode-range.js134129716820213716 0
+93C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\types-internal\src134129760851593750 1
+64C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\.gitignore134130678924095579 0
+64C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\images134130636087837554 1
+90C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\classes\range.js134129716810738935 0
+116C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\input-email-tel-url.js134129716820917337 0
+92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_ts_values134129760952558203 1
+92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\packager-wasm\src134129760846859798 1
+77C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\is-extglob134129760609596047 1
+108C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\flexbox-gap.js134129716820092165 0
+92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\node-addon-api\napi-inl.h134129716807996943 0
+96C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\cache\lib\IDBCache.js134129716807582748 0
+80C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\clone\LICENSE134129716806736375 0
+96C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lightningcss\node\ast.js.flow134129716807109464 0
+76C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@mischnic134129760709628490 1
+88C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_using134129760952845252 1
+100C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\ime.js134129716820786949 0
+88C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\browserslist\index.js134129716807099103 0
+105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\utility-types\dist\mapped-types.js.map134129716808369842 0
+125C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json134129716815834374 0
+107C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\core\lib\public\PluginOptions.js134129716814686206 0
+100C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\node-addon-api\node_addon_api.gyp134129716804213610 0
+98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\BM.js134129716812960739 0
+105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_using_ctx\package.json134129716819053351 0
+66C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\package.json134130670734201394 0
 82C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\chalk\readme.md134129716807482026 0
 115C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_object_spread_props\package.json134129716818559434 0
 116C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\package-manager\src\promiseFromProcess.js134129716809410267 0
 57C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src134129781502778901 1
 91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\ansi-styles\package.json134129716806373852 0
 64C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\sharp.json134129720806569303 0
-58C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist134130677082293673 1
+58C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist134130770251274133 1
 75C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\msgpackr134129760609998504 1
 92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\codeframe\LICENSE134129716803901827 0
 114C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\fieldset-disabled.js134129716820017935 0
@@ -29,40 +54,12 @@
 100C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lmdb\dependencies\lz4\lib\LICENSE134129716808866330 0
 102C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\const.js134129716814797970 0
 71C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\package-lock.json134129722512704277 0
-104C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\cjs\_define_property.cjs134129716811101839 0
-103C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\src\_async_iterator.mjs134129716819183452 0
-112C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\bundler-default\lib\DefaultBundler.js134129716806555326 0
-106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\utils\src\relativeBundlePath.js134129716811594057 0
-99C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\sass\types\legacy\exception.d.ts134129722510078661 0
-77C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\nullthrows134129760610348131 1
-64C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\images134130636087837554 1
-90C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\classes\range.js134129716810738935 0
-116C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\input-email-tel-url.js134129716820917337 0
-92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_ts_values134129760952558203 1
-92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\packager-wasm\src134129760846859798 1
-77C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\is-extglob134129760609596047 1
-108C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\flexbox-gap.js134129716820092165 0
-92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\node-addon-api\napi-inl.h134129716807996943 0
-96C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\cache\lib\IDBCache.js134129716807582748 0
-80C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\clone\LICENSE134129716806736375 0
-96C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lightningcss\node\ast.js.flow134129716807109464 0
-76C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@mischnic134129760709628490 1
-88C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_using134129760952845252 1
-100C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\ime.js134129716820786949 0
-88C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\browserslist\index.js134129716807099103 0
-105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\utility-types\dist\mapped-types.js.map134129716808369842 0
-125C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json134129716815834374 0
-107C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\core\lib\public\PluginOptions.js134129716814686206 0
-100C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\node-addon-api\node_addon_api.gyp134129716804213610 0
-98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\BM.js134129716812960739 0
-105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_using_ctx\package.json134129716819053351 0
-66C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\package.json134130670734201394 0
 105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\runtime-js\lib\helpers\browser134129760979383730 1
 94C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\runtime-rsc\LICENSE134129716803941866 0
 74C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\images\fundo.png134129924310750124 0
 106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\baseline-browser-mapping\dist\index.cjs134129716806423902 0
 106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\transformer-babel\src\babel7.js134129716806605356 0
-68C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\index.html134130672070402887 0
+68C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\index.html134130677980126978 0
 106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\clipboard.js134129716814666197 0
 92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_construct134129760948175084 1
 91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\escalade\sync\index.d.ts134129716808198672 0
@@ -134,7 +131,7 @@
 114C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\input-file-accept.js134129716820937363 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\core\src\projectPath.js134129716814727029 0
 87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\postcss-value-parser134129760610704106 1
-73C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\scripts\main.js134130677082126054 0
+73C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\src\scripts\main.js134130770251063945 0
 122C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json134129716815462278 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\BS.js134129716813128697 0
 111C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\utility-types\dist\aliases-and-guards.js.map134129716807926526 0
@@ -299,6 +296,12 @@
 86C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\runtime-rsc134129760713026187 1
 108C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\css-opacity.js134129716816167597 0
 81C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\node-addon-api134129760610134809 1
+104C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\cjs\_define_property.cjs134129716811101839 0
+103C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\src\_async_iterator.mjs134129716819183452 0
+112C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\bundler-default\lib\DefaultBundler.js134129716806555326 0
+106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\utils\src\relativeBundlePath.js134129716811594057 0
+99C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\sass\types\legacy\exception.d.ts134129722510078661 0
+77C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\nullthrows134129760610348131 1
 99C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.f75de5e1.js - Copia.map134129752596028515 0
 87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\ansi-styles\index.js134129716804284211 0
 124C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c134129716813041586 0
@@ -734,6 +737,7 @@
 89C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\diagnostic\lib134129760841182764 1
 143C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134129716827455513 0
 105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\webauthn.js134129716826942480 0
+89C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\fundo-aniversario.7beeac1f.png134130677435309046 0
 87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\tslib\tslib.es6.html134129716803881820 0
 80C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\graph134129760710837123 1
 116C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs134129716819223488 0
@@ -950,14 +954,14 @@
 92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\functions\major.js134129716809389927 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\OM.js134129716822410141 0
 92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\functions\minor.js134129716810245592 0
-119C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_assert_this_initialized\package.json134129716815553179 0
-90C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\functions\neq.js134129716810286037 0
-85C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\msgpackr\struct.js134129716809067611 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\HK.js134129716820616201 0
 105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\wai-aria.js134129716824306732 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\utils\src\objectHash.js134129716811272656 0
 91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\functions\sort.js134129716811021774 0
 115C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\orientation-sensor.js134129716822440166 0
+85C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\msgpackr\struct.js134129716809067611 0
+119C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_assert_this_initialized\package.json134129716815553179 0
+90C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\functions\neq.js134129716810286037 0
 92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\semver\functions\parse.js134129716810376685 0
 115C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\screen-orientation.js134129716823118792 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\GB.js134129716820324902 0
@@ -1157,6 +1161,7 @@
 96C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\ordered-binary\dist\index.cjs134129716804425499 0
 101C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_is_native_function134129760949834366 1
 106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\dom-range.js134129716819646319 0
+81C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\churrasco.a31129c2.png134130677435465286 0
 94C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\utils\src\config.js134129716808471105 0
 85C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\is-extglob\LICENSE134129716806363837 0
 93C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\picocolors\picocolors.d.ts134129716807159794 0
@@ -1357,8 +1362,8 @@
 85C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lmdb\node-index.js134129716815149755 0
 100C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\workers\lib\childState.js134129716807986930 0
 104C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lightningcss-win32-x64-msvc\README.md134129716806383859 0
-98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\IT.js134129716821132125 0
 116C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c134129716813068630 0
+98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\IT.js134129716821132125 0
 79C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lmdb\open.js134129716815159969 0
 105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\core\test\fixtures\module-a.js134129716813098672 0
 84C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\lmdb\package.json134129716815250649 0
@@ -1897,6 +1902,7 @@
 93C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\graph\lib\types.js134129716809207731 0
 123C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json134129716816217643 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\MX.js134129716822102162 0
+91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.5c472db7.js.map134130677436601761 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\NA.js134129716822142208 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\regions\NC.js134129716822182620 0
 106C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\packager-css\src\CSSPackager.js134129716806685430 0
@@ -2240,7 +2246,6 @@
 109C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\font-feature.js134129716820167253 0
 109C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\font-kerning.js134129716820167253 0
 113C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\font-size-adjust.js134129716820193443 0
-115C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\font-unicode-range.js134129716820213716 0
 128C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js134129716810920783 0
 117C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\font-variant-numeric.js134129716820234060 0
 105C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\caniuse-lite\data\features\fontface.js134129716820244061 0
@@ -2774,7 +2779,7 @@
 117C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\esm\_class_private_field_loose_key.js134129716814524857 0
 112C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\esm\_class_private_method_get.js134129716814565479 0
 113C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\esm\_class_private_method_init.js134129716814565479 0
-91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.f75de5e1.js.map134130677082283677 0
+91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.f75de5e1.js.map134130770251274133 0
 126C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\esm\_class_static_private_field_destructure.js134129716814585493 0
 123C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\esm\_class_static_private_field_spec_get.js134129716814605515 0
 119C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@swc\helpers\esm\_class_static_private_method_get.js134129716814646170 0
@@ -3108,7 +3113,6 @@
 97C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\types-internal\LICENSE134129716803911839 0
 91C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\packager-svg\src134129760846722407 1
 102C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\types-internal\package.json134129716808693328 0
-93C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\types-internal\src134129760851593750 1
 116C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\types-internal\src\DependencySpecifier.js134129716806998450 0
 119C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\error-overlay\src\components\ErrorOverlay.js134129716807751285 0
 119C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\types-internal\src\FileCreateInvalidation.js134129716807285991 0
@@ -3145,7 +3149,7 @@
 103C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\transformer-posthtml\LICENSE134129716803931857 0
 108C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\transformer-posthtml\package.json134129716807482026 0
 114C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js134129716806605356 0
-87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.f75de5e1.js134130677082271016 0
+87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.f75de5e1.js134130770251254122 0
 122C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js134129716807019043 0
 98C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\transformer-postcss\lib134129760849902197 1
 115C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js134129716809097633 0
@@ -3638,18 +3642,24 @@
 80C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\.bin\sass.ps1134129722512288732 0
 82C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\.bin\semver.ps1134129716827435498 0
 94C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\node_modules\.bin\update-browserslist-db134129716827445503 0
+79C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\chacara.44d2c2f1.png134130677435309046 0
 81C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\churrasco.3340ea86.png134130670739503576 0
+74C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\eu.4e802852.png134130677435309046 0
 74C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\eu.dc46382c.png134130670739483563 0
 95C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.59712999 - Copia.js134129752595998491 0
 87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.59712999.js134130670739588997 0
 99C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.59712999.js - Copia.map134129752596028515 0
+87C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.5c472db7.js134130677436601761 0
+88C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.8d166405.css134130677436601761 0
+92C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\exercicio_parcel.8d166405.css.map134130677436601761 0
 77C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\fundo.a62a0635.png134129924580948744 0
 77C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\index - Copia.html134129752595998491 0
-69C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\index.html134130672070683663 0
-66C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts134130677082293673 1
+69C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\index.html134130768504329273 0
+78C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\musica.576f456f.png134130677435309046 0
+66C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts134130770251274133 1
 65C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\styles134130670739679877 1
 78C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\styles\main.css.map134130670739669875 0
 82C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts\main - Copia.js134129752595998491 0
-74C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts\main.js134130677082278507 0
+74C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts\main.js134130770251254122 0
 86C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts\main.js - Copia.map134129752596018508 0
-78C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts\main.js.map134130677082283677 0
+78C:\Users\watil\OneDrive\Desktop\ebac\exercicio_parcel\dist\scripts\main.js.map134130770251274133 0

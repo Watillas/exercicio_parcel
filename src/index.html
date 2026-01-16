@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/main.scss">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <p class="hero__text">Você está convidado para o meu aniversário!</p>
+            <div class="infos-bar">
+                <ul class="infos-bar__infos">
+                    <li class="infos-bar__infos__item">
+                        <b>Localização</b>
+                        Goiânia
+                    </li>
+                    <li class="infos-bar__infos__item">
+                        <b>Preço</b>
+                        Grátis
+                    </li>
+                    <li class="infos-bar__infos__item">
+                        <b>Data</b>
+                        10/02/2026
+                    </li>
+                </ul>
+                <a href="#" class="button button--primary">Confirmar presença!</a>
+            </div>
+            <span class="hero__text" id="contador"></span>
+        </div>
+    </header>
+
+    <section class="event event--aniversariante">
+        <div class="container" data-aos="fade-up">
+            <div class="event__details">
+                <h2 class="event__details__title">Aniversáriante</h2>
+                <p class="event__details__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
+            </div>
+            <img class="event__image" src="./images/eu.png" alt="minha foto">
+        </div>
+    </section>
+
+    <section class="event event--chacara event--image--left">
+       <div class="container" data-aos="zoom-in">
+        <div class="event__details">
+            <h2 class="event__details__title">Chácara</h2>
+             <p class="event__details__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
+        </div>
+            <img class="event__image" src="./images/chacara.png" alt="chacara">
+        </div>
+    </section>
+
+    <section class="event event--churrasco">
+       <div class="container" data-aos="fade-up-left">
+        <div class="event__details">
+            <h2 class="event__details__title">Churrasco</h2>
+             <p class="event__details__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
+        </div>
+            <img class="event__image" src="./images/churrasco.png" alt="churrasco">
+        </div>
+    </section>
+
+    <section class="event event--musica event--image--left">
+       <div class="container" data-aos="fade-down-right">
+        <div class="event__details">
+            <h2 class="event__details__title">Música</h2>
+             <p class="event__details__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
+        </div>
+            <img class="event__image" src="./images/musica.png" alt="musica">
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="./scripts/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+AOS.init();const dataDoevento=new Date("Jan 12, 2026 16:29:00"),timeStampDoEvento=dataDoevento.getTime(),contAsHoras=setInterval(function(){let e=timeStampDoEvento-new Date().getTime(),t=Math.floor(e/1e3*86400),o=Math.floor(e%1e3*86400/1e3*3600),n=Math.floor(t%1e3*3600/1e3*60),a=Math.floor(t%1e3*60/1e3);document.getElementById("contador").innerHTML=`${t}D ${o}H ${n}M ${a}S`,t<0&&(clearInterval(contAsHoras),document.getElementById("contador").innerHTML`Evento expirado!`)},1e3);
+//# sourceMappingURL=exercicio_parcel.5c472db7.js.map
